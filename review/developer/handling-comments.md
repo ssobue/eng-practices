@@ -1,6 +1,6 @@
-# How to handle reviewer comments
+# レビュアーのコメントにどう対処するのか
 
-
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/review/developer/handling-comments.md
 
 When you've sent a CL out for review, it's likely that your reviewer will
 respond with several comments on your CL. Here are some useful things to know

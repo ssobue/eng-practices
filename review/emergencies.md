@@ -1,12 +1,10 @@
-# Emergencies
+# 緊急時のガイド
 
-Sometimes there are emergency CLs that must pass through the entire code review
-process as quickly as
-possible.
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/review/emergencies.md
 
+時には、一刻も早くコードレビューを通過させなければならないCLもあります。
 
-
-## What Is An Emergency? {#what}
+## 何が緊急なのか？ {#what}
 
 An emergency CL would be a **small** change that: allows a major launch to
 continue instead of rolling back, fixes a bug significantly affecting users in
@@ -22,7 +20,7 @@ code reviews, when they come up.
 However, after the emergency is resolved you should look over the emergency CLs
 again and give them a [more thorough review](reviewer/looking-for.md).
 
-## What Is NOT An Emergency? {#not}
+## 何が緊急ではないのか？ {#not}
 
 To be clear, the following cases are *not* an emergency:
 
@@ -40,7 +38,7 @@ To be clear, the following cases are *not* an emergency:
 
 And so on.
 
-## What Is a Hard Deadline? {#deadlines}
+## 本当にぎりぎりのデッドラインとは？ {#deadlines}
 
 A hard deadline is one where **something disastrous would happen** if you miss
 it. For example:

@@ -1,6 +1,6 @@
 # What to look for in a code review
 
-
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/review/reviewer/looking-for.md
 
 Note: Always make sure to take into account
 [The Standard of Code Review](standard.md) when considering each of these

@@ -1,33 +1,30 @@
-# Google Engineering Practices Documentation
+# Googleのエンジニアプラクティス
 
-Google has many generalized engineering practices that cover all languages and
-all projects. These documents represent our collective experience of various
-best practices that we have developed over time. It is possible that open source
-projects or other organizations would benefit from this knowledge, so we work to
-make it available publicly when possible.
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/README.md
 
-Currently this contains the following documents:
+Googleには、特定の言語やプロジェクトに関わらない一般的なエンジニアプラクティスがあります。
+これらの文書は、今まで培ってきたベストプラクティスをまとめたものです。
+これらは、様々なプロジェクトで利用でき、私たちはできるだけこれら公開していきます。
 
-*   [Google's Code Review Guidelines](review/index.md), which are actually two
-    separate sets of documents:
-    *   [The Code Reviewer's Guide](review/reviewer/index.md)
-    *   [The Change Author's Guide](review/developer/index.md)
+現在、以下のドキュメントがあります:
 
-## Terminology
+*   [Googleのコードレビューガイドライン](review/index.md)
+    詳細のドキュメントもあります:
+    *   [コードレビュアーのガイドライン](review/reviewer/index.md)
+    *   [コード変更をする人のガイドライン](review/developer/index.md)
 
-There is some Google-internal terminology used in some of these documents, which
-we clarify here for external readers:
+## 用語
 
-*   **CL**: Stands for "changelist", which means one self-contained change that
-    has been submitted to version control or which is undergoing code review.
-    Other organizations often call this a "change", "patch", or "pull-request".
-*   **LGTM**: Means "Looks Good to Me". It is what a code reviewer says when
-    approving a CL.
+ドキュメントの中にはGoogle内で利用される用語が使用されることがあります。そのため読者にわかるよう以下に意味をあげます。
 
-## License
+*   **CL**: 「changelist」の略です。
+    ひとつの修正のことをいい、VCS(e.g. Git)にコミットされたもの、もしくはコーレビューしている内容をさします。
+    「修正」「パッチ」「Pull Request」のように呼ばれることもあります。
+*   **LGTM**: 「Looks Good to Me」の略です。コードレビューにおいてCLが問題ないことをの意思表示です。
 
-The documents in this project are licensed under the
-[CC-By 3.0 License](LICENSE), which encourages you to share these documents. See
-<https://creativecommons.org/licenses/by/3.0/> for more details.
+## ライセンス
 
-<a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
+このプロジェクトのドキュメントは [CC-By 3.0 License](LICENSE)の下にあります。ここにあるドキュメントをぜひシェアしてください。
+<https://creativecommons.org/licenses/by/3.0/deed.ja> で詳細を確認してください。
+
+<a rel="license" href="https://creativecommons.org/licenses/by/3.0/deed.ja"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>

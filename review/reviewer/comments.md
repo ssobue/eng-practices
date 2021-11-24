@@ -1,6 +1,6 @@
 # How to write code review comments
 
-
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/review/reviewer/comments.md
 
 ## Summary
 

@@ -1,6 +1,6 @@
-# The Standard of Code Review
+# コードレビューの基準
 
-
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/review/reviewer/standard.md
 
 The primary purpose of code review is to make sure that the overall
 code health of Google's code

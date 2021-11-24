@@ -1,6 +1,6 @@
-# Writing good CL descriptions
+# 良いCLの説明文とは
 
-
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/review/developer/cl-descriptions.md
 
 A CL description is a public record of **what** change is being made and **why**
 it was made. It will become a permanent part of our version control history, and

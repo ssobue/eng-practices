@@ -1,12 +1,12 @@
-# Handling pushback in code reviews
+# コードレビューに対する不満や反発の対応方法
 
-
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/review/reviewer/pushback.md
 
 Sometimes a developer will push back on a code review. Either they will disagree
 with your suggestion or they will complain that you are being too strict in
 general.
 
-## Who is right? {#who_is_right}
+## 誰が正しいのか？ {#who_is_right}
 
 When a developer disagrees with your suggestion, first take a moment to consider
 if they are correct. Often, they are closer to the code than you are, and so

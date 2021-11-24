@@ -1,4 +1,8 @@
-# How to do a code review
+# コードレビューの方法
+
+原文: https://github.com/google/eng-practices/blob/eaff1ef39cccbea085debf39809fc903c4786dab/review/reviewer/index.md
+
+このセクションのページでは、長年の経験からコードレビューの最適な方法を推奨しています。このセクションのページには、長年の経験に基づいた、コードレビューを行うための推奨事項が記載されています。これらのページは、1つの完全なドキュメントとして 多くのセクションに分かれています。すべてを読む必要はありませんが すべてを読む必要はありませんが、多くの人がすべてのページを読むことで、自分自身やチームにとって非常に役立つと感じています。すべてを読むことが、自分やチームのためになることを多くの人が実感しています。
 
 The pages in this section contain recommendations on the best way to do code
 reviews, based on long experience. All together they represent one complete
